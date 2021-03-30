@@ -21,6 +21,7 @@ znaczki = 'b' *10
 print('%s cos tam' %spaces)
 print('%s cos tam' %znaczki)
 hjjhillkjlk
+hhjhkhj
 
 
 
